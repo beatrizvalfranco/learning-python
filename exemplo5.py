@@ -1,0 +1,10 @@
+def main():
+    A = int(input())
+    B = int(input())
+    C = int(input())
+    D = int(input())
+    DIFERENCA = ((A*B) - (C*D))
+    print("DIFERENCA = " + str(DIFERENCA))
+
+if __name__ == "__main__":
+    main()
